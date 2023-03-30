@@ -1,0 +1,32 @@
+.zone {
+  padding:30px 50px;
+  margin:40px 60px;
+  cursor:pointer;
+  display:inline-block;
+  color:#FFF;
+  font-size:2em;
+  border-radius:4px;
+  border:1px solid #bbb;
+  transition: all 0.3s linear;
+}
+
+.zone:hover {
+  box-shadow:rgba(0,0,0,0.8) 0px 5px 15px, inset rgba(0,0,0,0.15) 0px -10px 20px;
+}
+
+
+.green{
+  background: -webkit-linear-gradient(top, #56B870 0%,#a5c956 100%);
+}
+
+.red{
+  background: -webkit-linear-gradient(top, #C655BE 0%,#cf0404 100%); 
+}
+
+.orange{
+  background: -webkit-linear-gradient(top, #F3AAAA 0%,#febf04 100%); 
+}
+
+.blue{
+  background: -webkit-linear-gradient(top, #7abcff 0%,#60abf8 44%,#4096ee 100%); 
+}
