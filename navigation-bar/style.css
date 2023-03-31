@@ -49,6 +49,10 @@ a {
   height: 50vh;
 }
 
+.cover {
+  width: 30rem;
+}
+
 .grid-wrapper {
   display: grid;
   gap: 20px;
